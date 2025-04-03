@@ -11,17 +11,6 @@
 
 Hey there! I'm João, a software developer from Brazil who loves to build scalable applications and explore new technologies. My expertise spans across backend and frontend development, with a strong foundation in software architecture and best practices.
 
-💡 I enjoy working with:
-- 🏗️ Building robust backend systems with Java and Spring Boot
-- 🎨 Crafting modern web applications with Angular, HTML, and CSS
-- 🛠️ Writing clean, maintainable, and well-tested code
-- 🚀 Deploying applications using Docker and Kubernetes
-- 🏛️ Designing scalable architectures with SOLID principles & Design Patterns
-
-🌍 **Always eager to learn and collaborate on exciting projects!**
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages & Frameworks**
@@ -46,7 +35,7 @@ Hey there! I'm João, a software developer from Brazil who loves to build scalab
 ### 📫 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodavidesouza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-de-souza-240397333)
 
 🚀 Feel free to reach out and collaborate on amazing projects!
 
