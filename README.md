@@ -37,7 +37,7 @@ Hey there! I'm João, a software developer from Brazil who loves to build scalab
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodavidesouza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-de-souza-240397333)
 
-🚀 Feel free to reach out and collaborate on amazing projects!
+🚀 Feel free to reach out and collaborate on projects!
 
 ---
 
