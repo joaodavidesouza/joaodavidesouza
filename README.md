@@ -6,11 +6,6 @@
 </div>
 
 ---
-
-### 👨‍💻 About Me
-
-Hey there! I'm João, a software developer from Brazil who loves to build scalable applications and explore new technologies. My expertise spans across backend and frontend development, with a strong foundation in software architecture and best practices.
-
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages & Frameworks**
